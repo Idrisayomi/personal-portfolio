@@ -76,7 +76,7 @@ h2 {
 
 
 .hero {
-  height: 80vh;
+  height: 75vh;
   background: linear-gradient(to right, #000, #333);
   color: #fff;
   display: flex;
